@@ -1,0 +1,32 @@
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.LibraryForm.resources
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\Library.exe.config
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\Library.exe
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\Library.pdb
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.dll
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.xml
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.exe
+C:\Users\kindchri\Documents\Visual Studio 2012\Projects\Senaste Proj\OOPIIproj\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.pdb
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\Library.exe.config
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.exe
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.pdb
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\Library.exe
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\Library.pdb
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.dll
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.xml
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.LibraryForm.resources
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Christoffer\Desktop\Labbar\OOPII_Proj - kopia\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
